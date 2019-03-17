@@ -1,6 +1,7 @@
 # Raspberry-pi-3B-autoconnect-accesspoint
 It is my old project at June 2018
 
+<img src="system.jpg"/>
 <h2>Main Idea</h2>
 The main idea is to automatically connect the main raspy to known Access Point (another raspy), even when the main raspy is moving.
 It connects aproximately 2-3 seconds when the AP is detected by the main raspy.
